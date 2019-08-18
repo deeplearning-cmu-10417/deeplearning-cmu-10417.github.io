@@ -1,37 +1,16 @@
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/deeplearning-cmu-10417/deeplearning-cmu-10417.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/deeplearning-cmu-10417/deeplearning-cmu-10417.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Website Organization - 
+
+* index.html - Contains the HTML style code for the front page 
+* calendar.html - Contains link to the calendar which is hosted using deeplearningcmu10417@gmail.com email address - This link is an embedded link which consists of a week based view. Users can switch to month based view easily on the website
+* index_cp.html - This html page is not in use for the website - Just a copy of index.html page for quick reference. Fast to debug changes between index.html and index_cp.html to understand issue during any changes. 
+* _config.yml file - This file is a new change to GitHub pages where one needs to select Jekyll theme for website to be hosted (recent change). Keep this file untouched and unmodified. Not used in our webpage. 
+* static - Folder with all static files like images and stuff
+* assign - Folder with assignment related files
+
+## Issues contact
+
+* Ruslan Salakhutdinov - rsalakhu@andrew.cmu.edu 
+* Ankit Shah - ankit.tronix@gmail.com
